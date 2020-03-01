@@ -1,0 +1,5 @@
+.i*
+venv
+*.zip
+*cache*
+config
