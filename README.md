@@ -7,10 +7,11 @@ Used technologies:
   - MySQL
   - Python (PyTeleBotAPI)
   
-My role and achievments:
-  - Deploying bot in cloud
-  - Merging and wrapping teammates scripts in User_bot class (compare, bot.py and others)
-  - Fixing all major bugs to prevent bot falling
+Team:
+  - mglvc
+  - VlatekSoft
+  - MaximSinyaev (thanks for README ^~^)
+  - Me
 
 ### Video user-experience example
 <img align="centr" alt="work example" src="./data/work_example.gif" />
